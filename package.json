@@ -1,0 +1,21 @@
+{
+  "name": "omnifood",
+  "version": "1.0.0",
+  "description": "## About Omnifood",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "buli",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3",
+    "sass": "^1.58.0"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.8.3",
+    "@parcel/transformer-sass": "^2.8.3",
+    "@parcel/transformer-webmanifest": "^2.8.3"
+  }
+}
