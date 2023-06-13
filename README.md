@@ -48,3 +48,13 @@ Receive meals at convenient time: Best chefs in town will cook your selected mea
 - Pricing + Features
 - CTA
 - Footer
+
+## Used technologies
+
+- HTML
+- CSS/SCSS
+- JavaScript
+
+## Author
+
+This webiste is authored by **Buli**.
